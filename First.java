@@ -5,5 +5,8 @@ class First{
         //Addition 
         System.out.println(a+b);
 
+        
+        //Subtraction 
+        System.out.println(a-b);
     }
 }
