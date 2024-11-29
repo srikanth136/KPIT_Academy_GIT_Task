@@ -8,5 +8,8 @@ class First{
         
         //Subtraction 
         System.out.println(a-b);
+
+        //Multiplication 
+        System.out.println(a*b);
     }
 }
